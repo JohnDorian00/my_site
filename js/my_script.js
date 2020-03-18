@@ -1,16 +1,10 @@
 ﻿"use strict";
 
-let msg = 'Привет'
-	, age = 25
-	, user = "remai";
 
 
-document.cookie = "user=remai";
-//document.cookie = "msg=" + encodeURIComponent(msg);
+let test = prompt("Сколько вам")
 
-
-console.log( document.cookie );
-
+if (  )
 
 
 // alert(my_var);
